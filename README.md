@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/bc4db6f1-6f5e-4a06-ad89-d86ac1dc6e9f
+View your app in AI Studio: https://sectorscout.ai.studio/
 
 ## Run Locally
 
