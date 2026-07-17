@@ -1,0 +1,6 @@
+{
+  "name": "SectorScout",
+  "description": "Responsible company-research and public-contact enrichment tool. Find official corporate websites, role-based contacts, and general telephones with GDPR compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

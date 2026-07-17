@@ -1,0 +1,9 @@
+{
+  "appId": "com.sectorscout.app",
+  "appName": "SectorScout",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
