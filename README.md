@@ -2,6 +2,11 @@
 ```markdown
 # 🔭 SectorScout-Lead-Compiler
 
+## 🔗 Explore the App
+
+[**Click here to explore SectorScout-Lead-Compiler**](https://zfryrgnci.github.io/SectorScout-Lead-Compiler)
+
+
 A robust cross-platform research tool for gathering company intelligence and compiling actionable leads. This project integrates directly with research workflows to deliver structured market insights.
 
 ## 🚀 Features
